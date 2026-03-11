@@ -1,2 +1,2 @@
-# .github
-概要追加
+# MikataBots Project
+
