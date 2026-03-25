@@ -14,7 +14,8 @@
 | --- | --- |
 | Humble | [![Build](https://github.com/MikataBots/mikata-arm-ros2/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/MikataBots/mikata-arm-ros2/actions/workflows/build.yml) |
 | Jazzy | Under developping |
-| Humble | Plan to dev |
+| Kilted | not plan to dev |
+| Lyrical | Plan to dev |
 
 
 <!--
